@@ -12,7 +12,7 @@ Frontend Developer | React.js Learner | Java Developer
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode,mongodb" />
 </p>
 
 ## Projects
