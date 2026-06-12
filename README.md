@@ -16,13 +16,13 @@ Frontend Developer | React.js Learner | Java Developer
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=Java" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=Mongodb,Mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ###Tools
