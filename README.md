@@ -49,12 +49,6 @@ Frontend Developer | React.js Learner | Java Developer
 - Backend Development
 - DSA
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Rakeshpavan12&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshpavan12&layout=compact&theme=tokyonight)
-
 ## Connect With Me
 
 📧 rakeshyarrannagari@gmail.com
