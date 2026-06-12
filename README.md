@@ -1,4 +1,4 @@
-# Hi 👋 I'mRakesh Pavan
+I'm Y.Rakesh Pavan
 
 Frontend Developer | React.js Learner | Java Developer
 
