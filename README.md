@@ -7,29 +7,26 @@ Frontend Developer | React.js Learner | Java Developer
 - B.Tech Data Science Graduate (2025) passionate about Frontend Development Building responsive web applications & Learning Backend Development & APIs
 
 ## Tech Stack
-
-##Frontend
-<p>
+<table>
+<tr>
+<td align="center">
+<b>Frontend</b> <br> <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Programming Languages
-
-<p>
+</td>
+<td align="center">
+<b>Programming</b> <br> <br>
 <img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-###Tools
-
-<p>
+</td>
+<td align="center">
+<b>Database</b> <br> <br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</td>
+<td align="center">
+<b>Tools</b> <br> <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</td>
+</tr>
+</table>
 
 ## Projects
 
