@@ -32,6 +32,16 @@ Frontend Developer | React.js Learner | Java Developer
 - Movie Search
 - Trailer Integration
 
+- ### 🤖 AI-Based Subjective Answer Evaluation System
+- Final Year Academic Project
+- Built using Machine Learning and Natural Language Processing (NLP)
+- Applied Word2Vec and Word Mover's Distance (WMD) for semantic similarity analysis
+- Used Recurrent Neural Networks (RNN) for automated subjective answer evaluation
+- Achieved around 86% evaluation accuracy
+- Designed to reduce manual effort in grading descriptive answers
+
+**Technologies:** Python, NLP, Word2Vec, WMD, RNN
+
 ## Currently Learning
 
 - React.js Advanced Concepts
