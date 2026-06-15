@@ -39,7 +39,7 @@ Frontend Developer | React.js Learner | Java Developer
 ### 🎬 MovieHub
 - Movie search and trailer appplication using React.js and TMDB API.
 
-- ### 🤖 AI-Based Subjective Answer Evaluation System
+### 🤖 AI-Based Subjective Answer Evaluation System
 - Final Year NLP and Machine Learning academic Project
 
 ## Currently Learning
@@ -53,6 +53,6 @@ Frontend Developer | React.js Learner | Java Developer
 
 📧 rakeshyarrannagari@gmail.com
 
-💼 LinkedIn: Add Your LinkedIn Link
+💼 LinkedIn: https://www.linkedin.com/in/rakesh-pavan-8579b5272/
 
 🐙 GitHub: https://github.com/Rakeshpavan12
