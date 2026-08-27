@@ -14,6 +14,10 @@ Frontend Developer | React.js Learner | Java Developer
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </td>
 <td align="center">
+<b>Backend</b> <br> <br>
+<img src="https://skillicons.dev/icons?i=Node,express" />
+</td>
+<td align="center">
 <b>Programming</b> <br> <br>
 <img src="https://skillicons.dev/icons?i=java" />
 </td>
