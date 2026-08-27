@@ -1,6 +1,6 @@
 I'm Y.Rakesh Pavan
 
-Frontend Developer | React.js Learner | Java Developer
+Frontend Developer | React.js Learner | FullStack Developer
 
 ## About Me
 
