@@ -4,7 +4,8 @@ Frontend Developer | React.js Learner | FullStack Developer
 
 ## About Me
 
-- B.Tech Data Science Graduate (2025) passionate about Frontend Development Building responsive web applications & Learning Backend Development & APIs
+- B.Tech Data Science Graduate (2025) passionate about Frontend Development Building responsive web applications & Learning Backend Development & APIs.
+- Aspiring Full-Stack Developer aiming to create scalable and user-friendly applications.
 
 ## Tech Stack
 <table>
@@ -29,6 +30,11 @@ Frontend Developer | React.js Learner | FullStack Developer
 <b>Tools</b> <br> <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </td>
+<td align="center">
+<b>Deployment</b> <br> <br>
+<img src="https://skillicons.dev/icons?i=vercel," />
+</td>
+  
 </tr>
 </table>
 
