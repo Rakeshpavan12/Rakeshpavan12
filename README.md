@@ -61,8 +61,7 @@ Frontend Developer | React.js Learner | FullStack Developer
 
 ## Connect With Me
 
-📧 rakeshyarrannagari@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-pavan-8579b5272/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Rakeshpavan12)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rakeshyarrannagari@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/rakesh-pavan-8579b5272/
-
-🐙 GitHub: https://github.com/Rakeshpavan12
